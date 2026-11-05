@@ -1,0 +1,5 @@
+com\example\webproject\HelloResource.class
+murach\business\User.class
+murach\email\EmailListServlet.class
+murach\business\UserDB.class
+com\example\webproject\HelloApplication.class
